@@ -33,7 +33,6 @@ public class QuickSort {
         }
         swap(arr, i+1, high);
         return i+1;
-
     }
 
     public static void main (String[] args){
