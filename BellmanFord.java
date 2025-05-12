@@ -1,3 +1,5 @@
+// time complexity : O(VE)
+
 import java.util.Arrays;
 public class BellmanFord {
 
